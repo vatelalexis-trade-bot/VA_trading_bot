@@ -1,0 +1,9 @@
+streamlit
+telegram
+datetime
+os
+yfinance
+transformers
+newsapi-python
+ta
+pandas
